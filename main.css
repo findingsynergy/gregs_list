@@ -84,7 +84,7 @@ main a {
   font-weight: bold;
 }
 
-main .outputformat {
+.outputformat {
   margin-bottom: 10px; 
   display: block;
   }
